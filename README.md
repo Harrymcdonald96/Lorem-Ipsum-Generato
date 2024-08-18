@@ -1,4 +1,8 @@
 # Lorem-Ipsum-Generato
+
+![Lorem Ipsum Generator Screenshot](screenshots/LoremIpsumGeneratorScreenshot.png)
+
+
 # Description
 The Lorem Ipsum Generator is a web-based tool that generates placeholder text commonly known as "Lorem Ipsum." This application allows users to specify the number of paragraphs they want to generate and provides a random selection of humorous placeholder text instead of the traditional Lorem Ipsum. The project is built using HTML, CSS, and JavaScript.
 
@@ -13,4 +17,3 @@ No installation is required to use this application. Simply download the project
 - The generated text will appear in the output textarea.
 - Click the "COPY TEXT" button to copy the generated text to your clipboard.
 
-![Lorem Ipsum Generator Screenshot](screenshots/LoremIpsumGeneratorScreenshot.png)
